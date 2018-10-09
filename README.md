@@ -1,2 +1,2 @@
 # wicket-web-components
-An example how to use web-components in a wicket project
+A spring boot application as an example of the use of web-components in a wicket project
