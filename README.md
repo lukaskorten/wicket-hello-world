@@ -1,2 +1,2 @@
-# wicket-web-components
-A spring boot application as an example of the use of web-components in a wicket project
+# Wicket Hello-World  
+A quick start project for a new wicket application using spring boot. 
