@@ -1,6 +1,6 @@
-package de.korten.wicket.examples.webcomponents.configuration;
+package de.korten.wicket.examples.helloworld.configuration;
 
-import de.korten.wicket.examples.webcomponents.HomePage;
+import de.korten.wicket.examples.helloworld.HomePage;
 import org.apache.wicket.Page;
 import org.apache.wicket.protocol.http.WebApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

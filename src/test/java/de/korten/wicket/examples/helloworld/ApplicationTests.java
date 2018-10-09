@@ -1,4 +1,4 @@
-package de.korten.wicket.examples.webcomponents;
+package de.korten.wicket.examples.helloworld;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

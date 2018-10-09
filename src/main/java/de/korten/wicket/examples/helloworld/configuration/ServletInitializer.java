@@ -1,4 +1,4 @@
-package de.korten.wicket.examples.webcomponents.configuration;
+package de.korten.wicket.examples.helloworld.configuration;
 
 import org.apache.wicket.protocol.http.WicketFilter;
 import org.springframework.boot.web.servlet.ServletContextInitializer;
