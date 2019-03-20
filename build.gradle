@@ -26,6 +26,10 @@ repositories {
 
 dependencies {
 	implementation('org.springframework.boot:spring-boot-starter-web')
+	
 	implementation('org.apache.wicket:wicket-core:8.1.0')
+	implementation('org.apache.wicket:wicket-spring:8.1.0')
+	implementation('org.wicketstuff:wicketstuff-annotation:8.1.0')
+	
 	testImplementation('org.springframework.boot:spring-boot-starter-test')
 }
